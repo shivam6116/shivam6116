@@ -8,10 +8,10 @@
 
 ## 🔥 Professional Highlights
 
-- 🏛️ **AI/ML Engineer Consultant** at United Nations (via Ameha Technologies)
+- 🏛️ **AI/ML Engineer Consultant** at United Nations
 - 🚀 Full Stack AI Engineer with expertise in **GenAI, LLMs, and RAG systems**
 - 💡 Built end-to-end AI solutions for education (abhidhya.org) and career guidance
-- 🔍 Specialized in **NLP, Computer Vision, and Large Language Model integrations**
+- 🔍 Specialized in **NLP and Large Language Model integrations**
 - ⚡ Passionate about building **scalable AI systems** with FastAPI, LangChain, and cloud technologies
 
 ## 🛠️ Technical Skills
@@ -37,7 +37,7 @@
 
 ## 💼 Professional Experience
 
-### **AI/ML Engineer** @ United Nations (via Ameha Technologies)  
+### **AI/ML Engineer** @ United Nations
 `Oct 2024 - Present`  
 - Designing AI-driven solutions to optimize UN operations
 - Implementing advanced ML models for global impact projects
@@ -67,6 +67,28 @@
 ### **Twitter Data Insight Platform**
 - Real-time election data analysis using Kafka, PySpark, and Airflow
 - Processed millions of tweets for political insights
+
+## 🚀 Active Projects
+
+### **[RAG Architectures](https://github.com/shivam6116/RAG)** (WIP) 
+`Python · LangChain · GPT-4 · Computer Vision`  
+▶️ Exploring different types of RAG architectures:  
+- Simple RAG  
+- Branched RAG 
+- HyDe (Hypothetical Document Embedding) 
+
+[![Repo Status](https://img.shields.io/badge/Status-Active-brightgreen)](https://github.com/shivam6116/RAG)
+
+
+
+
+## 🌱 What I'm Exploring Next
+
+- Implementing RAG with Llama3 for document Q&A  
+- Building AI agents with AutoGen  
+- Fine tunning models
+
+[![View All Projects](https://img.shields.io/badge/View_All_Projects-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/shivam6116?tab=repositories)
 
 ## 📊 GitHub Stats
 
